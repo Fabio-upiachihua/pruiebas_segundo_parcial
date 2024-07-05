@@ -1,0 +1,15 @@
+maria,mia ,21,74859610,06,True,True
+John,Doe,30,12345678,001,True,False
+Jane,Doe,25,87654321,002,True,False
+John,Doe,30,12345678,001,True,False
+Jane,Doe,0,87654321,002,True,False
+John,Doe,30,12345678,001,True,False
+John,Doe,30,12345678,001,True,False
+John,Doe,30,12345678,001,True,False
+Jane,Doe,25,87654321,002,True,False
+John,Doe,30,12345678,001,True,False
+Jane,Doe,25,87654321,002,True,False
+John,Doe,30,12345678,001,True,False
+Jane,Doe,0,87654321,002,True,False
+John,Doe,30,12345678,001,True,False
+John,Doe,30,12345678,001,True,False
